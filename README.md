@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MannA-001
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me email: mannasayan90@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like adventures.
